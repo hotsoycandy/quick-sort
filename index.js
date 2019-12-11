@@ -1,4 +1,4 @@
-/* merge sort */
+/* quick sort */
 
 function sort (arr) {
   if (arr.length <= 1) return arr
